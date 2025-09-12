@@ -1,0 +1,39 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+*.nuspec
+*.psmdcp
+
+# Backup & temporary files
+*.bak
+*.tmp
+*.log
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# Auto-generated files
+*.GeneratedMSBuildEditorConfig.editorconfig
+
+# Others
+_ReSharper*/
+*.resharper
+*.DotSettings.user
+.idea/
+*.vs/
