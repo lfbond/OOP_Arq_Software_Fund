@@ -5,7 +5,7 @@ namespace OOP
     public class Funcionario : Pessoa
     {
         public DateTime DataAdmissao { get; set; }
-        public string Registro { get; set; }
+        public string? Registro { get; set; }
     }
 
     public class Processo
